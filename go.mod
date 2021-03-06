@@ -1,3 +1,3 @@
-module github.com/Alaburda/wowchemy-widget-cta
+module github.com/alaburda/wowchemy-widget-cta
 
 go 1.15
